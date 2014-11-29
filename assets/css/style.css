@@ -1,0 +1,666 @@
+body {	
+font-family: "Dancing Script", "Source Open Pro";
+margin: 0px;
+background-color: white;
+} 
+
+a {
+color: inherit;
+text-decoration: none;
+}
+
+#content {
+	margin-top: 20px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+#Welcome {
+	color: #5DE100;
+	font-size: 75;
+	text-align: center;
+	margin-bottom: 20px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+#cupcake-container {
+	height: 280px;
+	width: 326px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+
+#enter {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#enter:hover {
+    opacity: 0.5;
+}
+
+
+#copyright {
+	float: right;
+	padding-top: 60px;
+}
+
+
+#banner {
+	height:150px;
+	width: 100%;
+	overflow: hidden;
+	position:fixed;
+	z-index:9;
+
+}
+
+.banner  {
+height: auto;
+width: 100%;
+overflow: hidden;
+}
+
+#top-bar {
+	background-color: #A3F06C;
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	text-align: center;
+	margin-top:150px;
+	z-index: 10;
+}
+
+.top-bar-button {
+	display: inline-block;
+	color: white;
+	font-size: 35;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-weight: 500;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+#container {
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 200px;
+    width:1025px;
+    height:100%;
+    line-height: 1.5;
+
+}
+
+.image-box {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin-top:40px;
+    margin-bottom:40px;
+    margin-right:25px;
+    padding:10px;
+    background:white;
+    overflow: hidden;
+    color:#A3F06C;
+    font-size: 48;
+    font-weight:500;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.image-box #text1 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text2 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text3 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text4 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text5 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text6 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text7 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text8 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text9 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text10 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text11 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text12 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text21 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text22 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text23 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text24 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text25 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text26 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text27 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text28 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text29 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text30 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text31 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box #text32 {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.image-box:hover #text1 {
+visibility:visible;
+}
+
+
+.image-box:hover #text1 {
+visibility:visible;
+}
+
+.image-box:hover #text2 {
+visibility:visible;
+}
+
+.image-box:hover #text3 {
+visibility:visible;
+}
+
+.image-box:hover #text4 {
+visibility:visible;
+}
+
+.image-box:hover #text5 {
+visibility:visible;
+}
+
+.image-box:hover #text6 {
+visibility:visible;
+}
+
+.image-box:hover #text7 {
+visibility:visible;
+}
+
+.image-box:hover #text8 {
+visibility:visible;
+}
+
+.image-box:hover #text9 {
+visibility:visible;
+}
+
+.image-box:hover #text10 {
+visibility:visible;
+}
+
+.image-box:hover #text11 {
+visibility:visible;
+}
+
+.image-box:hover #text12 {
+visibility:visible;
+}
+
+.image-box:hover #text21 {
+visibility:visible;
+}
+
+.image-box:hover #text22 {
+visibility:visible;
+}
+
+.image-box:hover #text23 {
+visibility:visible;
+}
+
+.image-box:hover #text24 {
+visibility:visible;
+}
+
+.image-box:hover #text25 {
+visibility:visible;
+}
+
+.image-box:hover #text26 {
+visibility:visible;
+}
+
+.image-box:hover #text27 {
+visibility:visible;
+}
+
+.image-box:hover #text28 {
+visibility:visible;
+}
+
+.image-box:hover #text29 {
+visibility:visible;
+}
+
+.image-box:hover #text30 {
+visibility:visible;
+}
+
+.image-box:hover #text31 {
+visibility:visible;
+}
+
+.image-box:hover #text32 {
+visibility:visible;
+}
+
+#image1:hover {
+    opacity: 0.5;
+}
+
+#image2:hover {
+    opacity: 0.5;
+}
+#image3:hover {
+    opacity: 0.5;
+}
+#image4:hover {
+    opacity: 0.5;
+}
+#image5:hover {
+    opacity: 0.5;
+}
+#image6:hover {
+    opacity: 0.5;
+}
+#image7:hover {
+    opacity: 0.5;
+}
+#image8:hover {
+    opacity: 0.5;
+}
+#image9:hover {
+    opacity: 0.5;
+}
+#image10:hover {
+    opacity: 0.5;
+}
+#image11:hover {
+    opacity: 0.5;
+}
+#image12:hover {
+    opacity: 0.5;
+}
+#image-about:hover {
+	opacity: 0.5;
+}
+
+#image21:hover {
+    opacity: 0.5;
+}
+
+#image22:hover {
+    opacity: 0.5;
+}
+#image23:hover {
+    opacity: 0.5;
+}
+#image24:hover {
+    opacity: 0.5;
+}
+#image25:hover {
+    opacity: 0.5;
+}
+#image26:hover {
+    opacity: 0.5;
+}
+#image27:hover {
+    opacity: 0.5;
+}
+#image28:hover {
+    opacity: 0.5;
+}
+#image29:hover {
+    opacity: 0.5;
+}
+#image30:hover {
+    opacity: 0.5;
+}
+#image31:hover {
+    opacity: 0.5;
+}
+#image32:hover {
+    opacity: 0.5;
+   }
+
+
+
+#image1, #image2, #image3, #image4, #image5, #image6, #image7, #image8, #image9, #image10, #image11, #image12, #image-about,
+#image21, #image22, #image23, #image24, #image25, #image26, #image27, #image28, #image29, #image30, #image31, #image32 {
+	overflow: hidden;
+	z-index: -1;
+	width:300px;
+	height:300px;
+}
+
+
+
+.image-column {
+	display: inline-block;
+	width:300px;
+	margin:19px;
+}
+
+#map-container {
+	margin-top:65px;
+	display:inline-block;
+}
+
+
+#map-canvas {
+        width: 400px;
+        height: 400px;
+        overflow: hidden;
+        background-color: #CCC;
+        float:right;
+        display: inline-block;
+      }
+
+
+.image-box-about {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin-bottom:40px;
+    margin-right:25px;
+    padding:10px;
+    background:white;
+    overflow: hidden;
+    color:#A3F06C;
+    font-size: 48;
+    font-weight:500;
+    text-shadow: 2px 2px 4px #000000;
+    float:right;
+}
+
+.image-box-about:hover .text {
+visibility:visible;
+}
+
+.image-box-about .text {
+position:relative;
+bottom:300px;
+text-align: center;
+visibility:hidden;
+}
+
+.text-box {
+	font-size: 18;
+	display:inline-block;
+	width:600px;
+	height:300px;
+	margin-top: 50px;
+	text-align: justify;
+	line-height: 1.7;
+	font-family: Source Sans Pro;
+	color: #404040;
+}
+
+#text-box-selector {
+	font-size: 18;
+	display:inline-block;
+	width:600px;
+	height:20px;
+	margin-top: 90px;
+	text-align: justify;
+	font-family: Source Sans Pro;
+	color: #404040;
+}
+
+#Website {
+	display:inline-block;
+	margin-right:10px;
+}
+
+#Me{
+	display:inline-block;
+	margin-left:10px;
+	font-weight: 700;
+
+}
+
+#text-box-contact {
+
+	font-size: 18;
+	display:inline-block;
+	width:600px;
+	height:300px;
+	margin-top: 90px;
+	text-align: justify;
+	line-height: 1.7;
+	font-family: Source Sans Pro;
+	color: #404040;
+}
+
+
+.social-media-image {
+	width:40px;
+	height:40px;
+	display:inline-block;
+	margin-right: 5px;
+}
+
+#e-mail {
+	width:80px;
+	height:40px;
+	background: #A3F06C;
+	text-align: center;
+	top:5px;
+}
+
+
+
+#modal-container1, #modal-container2, #modal-container3, #modal-container4, #modal-container5, #modal-container6, #modal-container7, #modal-container8, #modal-container9, #modal-container10, #modal-container11, #modal-container12,
+ #modal-container21, #modal-container22, #modal-container23, #modal-container24, #modal-container25, #modal-container26, #modal-container27, #modal-container28, #modal-container29, #modal-container30, #modal-container31, #modal-container32  {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 100;
+    display: none;
+}
+
+.modal-overlay {
+    background: rgba(0,0,0,0.5);
+    opacity: 50%;
+    width: 100%;
+    height: 100%;
+    z-index: 101;
+    position: absolute;
+}
+
+#modal-box {
+    position: fixed;
+    width: 1000px;
+    height: 520px;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    background: #FFF0FA;
+    z-index: 102;
+    top: 50%;
+    top: 50%;
+ 	transform: translateY(-50%);
+  	padding: 20px;
+}
+
+#modal-content {
+	width: 990px;
+	height: 510px;
+}
+ 
+#modal-header {
+  	text-align:center;
+  	font-size: 35;
+  	color:#5DE100;
+  	font-weight: 500;
+	text-shadow: 2px 2px 4px #000000;
+	width: 100%;
+}
+
+
+#ingredients-content {
+	font-family: Source Sans Pro;
+	line-height: 1,7;
+	height:410px;
+	width: 333px;
+	display: inline-block;
+	margin-right:10px;
+	margin-top:30px;
+}
+
+#directions-content {
+	display:inline-block;
+	position: absolute;
+	margin-left: 10px;
+	font-family: Source Sans Pro;
+	line-height: 1,7;
+	width:600px;
+	height:100px;
+	text-align: justify;
+	margin-top:60px;
+}
+
+.close-button {
+	text-align: center;
+	font-size: 25
+}
+
+.top-bar-button:hover {
+	color: #FFC0CB;
+	}
